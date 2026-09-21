@@ -114,11 +114,66 @@ void t06()
     print(v);
 }
 
+void t07()
+{
+    auto add = [](int a, int b)
+    {
+        return a + b;
+    };
+
+    cout << add(3, 4);
+}
+
+void t08()
+{
+
+    vector<int> v;
+
+    struct AbsLess
+    {
+        bool operator()(int a, int b) const
+        {
+            return abs(a) < abs(b);
+        }
+    };
+
+    sort(v.begin(), v.end(), [](int a, int b)
+         { return abs(a) < abs(b); });
+
+    int threshold = 10;
+
+    struct GreaterThan
+    {
+        int t;
+        GreaterThan(int t) : t(t) {}
+        bool operator()(int x) const { return x > t; }
+    };
+
+    count_if(v.begin(), v.end(), [threshold](int x)
+             { return x > threshold; });
+}
+
+void t09()
+{
+    vector<int> v = {5, 2, 8, 1, 9};
+    sort(v.begin(), v.end(), [](int a, int b)
+         { return a < b; });
+
+    print(v);
+
+    sort(v.begin(), v.end(), [](int a, int b)
+         { return a > b; });
+
+    print(v);
+}
+
 int main()
 {
     // t01();
     // t02();
     // t04();
-    t06();
+    // t06();
+    // t07();
+    t09();
     return 0;
 }

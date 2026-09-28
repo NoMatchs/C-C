@@ -1,0 +1,238 @@
+
+> 01.asm:304:0000000140001440 <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE>:
+  01.asm:305:   140001440:	55                   	push   %rbp
+  01.asm:306:   140001441:	53                   	push   %rbx
+  01.asm:307:   140001442:	48 83 ec 28          	sub    $0x28,%rsp
+  01.asm:308:   140001446:	48 8d 6c 24 20       	lea    0x20(%rsp),%rbp
+  01.asm:309:   14000144b:	48 89 4d 20          	mov    %rcx,0x20(%rbp)
+  01.asm:310:   14000144f:	48 8b 45 20          	mov    0x20(%rbp),%rax
+  01.asm:311:   140001453:	48 89 c1             	mov    %rax,%rcx
+  01.asm:312:   140001456:	e8 e5 16 00 00       	call   140002b40 <_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE6lengthEv>
+  01.asm:313:   14000145b:	48 83 f8 06          	cmp    $0x6,%rax
+  01.asm:314:   14000145f:	0f 95 c0             	setne  %al
+  01.asm:315:   140001462:	84 c0                	test   %al,%al
+> 01.asm:316:   140001464:	74 0a                	je     140001470 <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x30>
+  01.asm:317:   140001466:	b8 00 00 00 00       	mov    $0x0,%eax
+> 01.asm:318:   14000146b:	e9 fa 00 00 00       	jmp    14000156a <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x12a>
+  01.asm:319:   140001470:	48 8b 45 20          	mov    0x20(%rbp),%rax
+  01.asm:320:   140001474:	ba 00 00 00 00       	mov    $0x0,%edx
+  01.asm:321:   140001479:	48 89 c1             	mov    %rax,%rcx
+  01.asm:322:   14000147c:	e8 7f 1e 00 00       	call   140003300 <_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEixEy>
+  01.asm:323:   140001481:	0f b6 00             	movzbl (%rax),%eax
+  01.asm:324:   140001484:	3c 48                	cmp    $0x48,%al
+  01.asm:325:   140001486:	0f 95 c0             	setne  %al
+  01.asm:326:   140001489:	84 c0                	test   %al,%al
+> 01.asm:327:   14000148b:	74 0a                	je     140001497 <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x57>
+  01.asm:328:   14000148d:	b8 00 00 00 00       	mov    $0x0,%eax
+> 01.asm:329:   140001492:	e9 d3 00 00 00       	jmp    14000156a <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x12a>
+  01.asm:330:   140001497:	48 8b 45 20          	mov    0x20(%rbp),%rax
+  01.asm:331:   14000149b:	ba 05 00 00 00       	mov    $0x5,%edx
+  01.asm:332:   1400014a0:	48 89 c1             	mov    %rax,%rcx
+  01.asm:333:   1400014a3:	e8 58 1e 00 00       	call   140003300 <_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEixEy>
+  01.asm:334:   1400014a8:	0f b6 00             	movzbl (%rax),%eax
+  01.asm:335:   1400014ab:	3c 21                	cmp    $0x21,%al
+  01.asm:336:   1400014ad:	0f 95 c0             	setne  %al
+  01.asm:337:   1400014b0:	84 c0                	test   %al,%al
+> 01.asm:338:   1400014b2:	74 0a                	je     1400014be <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x7e>
+  01.asm:339:   1400014b4:	b8 00 00 00 00       	mov    $0x0,%eax
+> 01.asm:340:   1400014b9:	e9 ac 00 00 00       	jmp    14000156a <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x12a>
+  01.asm:341:   1400014be:	48 8b 45 20          	mov    0x20(%rbp),%rax
+  01.asm:342:   1400014c2:	ba 01 00 00 00       	mov    $0x1,%edx
+  01.asm:343:   1400014c7:	48 89 c1             	mov    %rax,%rcx
+  01.asm:344:   1400014ca:	e8 31 1e 00 00       	call   140003300 <_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEixEy>
+  01.asm:345:   1400014cf:	0f b6 00             	movzbl (%rax),%eax
+  01.asm:346:   1400014d2:	3c 61                	cmp    $0x61,%al
+  01.asm:347:   1400014d4:	0f 95 c0             	setne  %al
+  01.asm:348:   1400014d7:	84 c0                	test   %al,%al
+> 01.asm:349:   1400014d9:	74 0a                	je     1400014e5 <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xa5>
+  01.asm:350:   1400014db:	b8 00 00 00 00       	mov    $0x0,%eax
+> 01.asm:351:   1400014e0:	e9 85 00 00 00       	jmp    14000156a <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x12a>
+  01.asm:352:   1400014e5:	48 8b 45 20          	mov    0x20(%rbp),%rax
+  01.asm:353:   1400014e9:	ba 02 00 00 00       	mov    $0x2,%edx
+  01.asm:354:   1400014ee:	48 89 c1             	mov    %rax,%rcx
+  01.asm:355:   1400014f1:	e8 0a 1e 00 00       	call   140003300 <_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEixEy>
+  01.asm:356:   1400014f6:	0f b6 00             	movzbl (%rax),%eax
+  01.asm:357:   1400014f9:	3c 62                	cmp    $0x62,%al
+  01.asm:358:   1400014fb:	0f 95 c0             	setne  %al
+  01.asm:359:   1400014fe:	84 c0                	test   %al,%al
+> 01.asm:360:   140001500:	74 07                	je     140001509 <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xc9>
+  01.asm:361:   140001502:	b8 00 00 00 00       	mov    $0x0,%eax
+> 01.asm:362:   140001507:	eb 61                	jmp    14000156a <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x12a>
+  01.asm:363:   140001509:	48 8b 45 20          	mov    0x20(%rbp),%rax
+  01.asm:364:   14000150d:	ba 03 00 00 00       	mov    $0x3,%edx
+  01.asm:365:   140001512:	48 89 c1             	mov    %rax,%rcx
+  01.asm:366:   140001515:	e8 e6 1d 00 00       	call   140003300 <_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEixEy>
+  01.asm:367:   14000151a:	0f b6 00             	movzbl (%rax),%eax
+  01.asm:368:   14000151d:	3c 64                	cmp    $0x64,%al
+  01.asm:369:   14000151f:	0f 95 c0             	setne  %al
+  01.asm:370:   140001522:	84 c0                	test   %al,%al
+> 01.asm:371:   140001524:	74 07                	je     14000152d <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0xed>
+  01.asm:372:   140001526:	b8 00 00 00 00       	mov    $0x0,%eax
+> 01.asm:373:   14000152b:	eb 3d                	jmp    14000156a <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x12a>
+  01.asm:374:   14000152d:	48 8b 45 20          	mov    0x20(%rbp),%rax
+  01.asm:375:   140001531:	ba 04 00 00 00       	mov    $0x4,%edx
+  01.asm:376:   140001536:	48 89 c1             	mov    %rax,%rcx
+  01.asm:377:   140001539:	e8 c2 1d 00 00       	call   140003300 <_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEixEy>
+  01.asm:378:   14000153e:	0f b6 18             	movzbl (%rax),%ebx
+  01.asm:379:   140001541:	48 8b 45 20          	mov    0x20(%rbp),%rax
+  01.asm:380:   140001545:	ba 01 00 00 00       	mov    $0x1,%edx
+  01.asm:381:   14000154a:	48 89 c1             	mov    %rax,%rcx
+  01.asm:382:   14000154d:	e8 ae 1d 00 00       	call   140003300 <_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEixEy>
+  01.asm:383:   140001552:	0f b6 00             	movzbl (%rax),%eax
+  01.asm:384:   140001555:	38 c3                	cmp    %al,%bl
+  01.asm:385:   140001557:	0f 95 c0             	setne  %al
+  01.asm:386:   14000155a:	84 c0                	test   %al,%al
+> 01.asm:387:   14000155c:	74 07                	je     140001565 <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x125>
+  01.asm:388:   14000155e:	b8 00 00 00 00       	mov    $0x0,%eax
+> 01.asm:389:   140001563:	eb 05                	jmp    14000156a <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x12a>
+  01.asm:390:   140001565:	b8 01 00 00 00       	mov    $0x1,%eax
+  01.asm:391:   14000156a:	48 83 c4 28          	add    $0x28,%rsp
+  01.asm:392:   14000156e:	5b                   	pop    %rbx
+  01.asm:393:   14000156f:	5d                   	pop    %rbp
+  01.asm:394:   140001570:	c3                   	ret
+  01.asm:395:
+  01.asm:396:0000000140001571 <main>:
+  01.asm:397:   140001571:	55                   	push   %rbp
+  01.asm:398:   140001572:	53                   	push   %rbx
+  01.asm:399:   140001573:	48 83 ec 68          	sub    $0x68,%rsp
+  01.asm:400:   140001577:	48 8d 6c 24 60       	lea    0x60(%rsp),%rbp
+  01.asm:401:   14000157c:	e8 df 01 00 00       	call   140001760 <__main>
+  01.asm:402:   140001581:	48 8d 45 c0          	lea    -0x40(%rbp),%rax
+  01.asm:403:   140001585:	48 89 c1             	mov    %rax,%rcx
+  01.asm:404:   140001588:	e8 d3 1c 00 00       	call   140003260 <_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1Ev>
+  01.asm:405:   14000158d:	48 8d 15 6c 3a 00 00 	lea    0x3a6c(%rip),%rdx        # 140005000 <.rdata>
+  01.asm:406:   140001594:	48 8b 05 b5 3f 00 00 	mov    0x3fb5(%rip),%rax        # 140005550 <__fu1__ZSt4cout>
+  01.asm:407:   14000159b:	48 89 c1             	mov    %rax,%rcx
+  01.asm:408:   14000159e:	e8 dd 00 00 00       	call   140001680 <_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc>
+  01.asm:409:   1400015a3:	48 8d 45 c0          	lea    -0x40(%rbp),%rax
+  01.asm:410:   1400015a7:	48 8b 0d 92 3f 00 00 	mov    0x3f92(%rip),%rcx        # 140005540 <__fu0__ZSt3cin>
+  01.asm:411:   1400015ae:	48 89 c2             	mov    %rax,%rdx
+  01.asm:412:   1400015b1:	e8 c2 00 00 00       	call   140001678 <_ZStrsIcSt11char_traitsIcESaIcEERSt13basic_istreamIT_T0_ES7_RNSt7__cxx1112basic_stringIS4_S5_T1_EE>
+  01.asm:413:   1400015b6:	48 8d 55 c0          	lea    -0x40(%rbp),%rdx
+  01.asm:414:   1400015ba:	48 8d 45 e0          	lea    -0x20(%rbp),%rax
+  01.asm:415:   1400015be:	48 89 c1             	mov    %rax,%rcx
+  01.asm:416:   1400015c1:	e8 ca 1b 00 00       	call   140003190 <_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1ERKS4_>
+  01.asm:417:   1400015c6:	48 8d 45 e0          	lea    -0x20(%rbp),%rax
+  01.asm:418:   1400015ca:	48 89 c1             	mov    %rax,%rcx
+> 01.asm:419:   1400015cd:	e8 6e fe ff ff       	call   140001440 <_Z5checkNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE>
+  01.asm:420:   1400015d2:	89 c3                	mov    %eax,%ebx
+  01.asm:421:   1400015d4:	48 8d 45 e0          	lea    -0x20(%rbp),%rax
+  01.asm:422:   1400015d8:	48 89 c1             	mov    %rax,%rcx
+  01.asm:423:   1400015db:	e8 f0 1c 00 00       	call   1400032d0 <_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev>
+  01.asm:424:   1400015e0:	84 db                	test   %bl,%bl
+  01.asm:425:   1400015e2:	74 18                	je     1400015fc <main+0x8b>
+  01.asm:426:   1400015e4:	48 8d 15 26 3a 00 00 	lea    0x3a26(%rip),%rdx        # 140005011 <.rdata+0x11>
+  01.asm:427:   1400015eb:	48 8b 05 5e 3f 00 00 	mov    0x3f5e(%rip),%rax        # 140005550 <__fu1__ZSt4cout>
+  01.asm:428:   1400015f2:	48 89 c1             	mov    %rax,%rcx
+  01.asm:429:   1400015f5:	e8 86 00 00 00       	call   140001680 <_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc>
+  01.asm:430:   1400015fa:	eb 16                	jmp    140001612 <main+0xa1>
+  01.asm:431:   1400015fc:	48 8d 15 18 3a 00 00 	lea    0x3a18(%rip),%rdx        # 14000501b <.rdata+0x1b>
+  01.asm:432:   140001603:	48 8b 05 46 3f 00 00 	mov    0x3f46(%rip),%rax        # 140005550 <__fu1__ZSt4cout>
+  01.asm:433:   14000160a:	48 89 c1             	mov    %rax,%rcx
+  01.asm:434:   14000160d:	e8 6e 00 00 00       	call   140001680 <_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc>
+  01.asm:435:   140001612:	bb 00 00 00 00       	mov    $0x0,%ebx
+  01.asm:436:   140001617:	48 8d 45 c0          	lea    -0x40(%rbp),%rax
+  01.asm:437:   14000161b:	48 89 c1             	mov    %rax,%rcx
+  01.asm:438:   14000161e:	e8 ad 1c 00 00       	call   1400032d0 <_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev>
+  01.asm:439:   140001623:	89 d8                	mov    %ebx,%eax
+  01.asm:440:   140001625:	eb 2b                	jmp    140001652 <main+0xe1>
+  01.asm:441:   140001627:	48 89 c3             	mov    %rax,%rbx
+  01.asm:442:   14000162a:	48 8d 45 e0          	lea    -0x20(%rbp),%rax
+  01.asm:443:   14000162e:	48 89 c1             	mov    %rax,%rcx
+  01.asm:444:   140001631:	e8 9a 1c 00 00       	call   1400032d0 <_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev>
+  01.asm:445:   140001636:	eb 03                	jmp    14000163b <main+0xca>
+  01.asm:446:   140001638:	48 89 c3             	mov    %rax,%rbx
+  01.asm:447:   14000163b:	48 8d 45 c0          	lea    -0x40(%rbp),%rax
+  01.asm:448:   14000163f:	48 89 c1             	mov    %rax,%rcx
+  01.asm:449:   140001642:	e8 89 1c 00 00       	call   1400032d0 <_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev>
+  01.asm:450:   140001647:	48 89 d8             	mov    %rbx,%rax
+  01.asm:451:   14000164a:	48 89 c1             	mov    %rax,%rcx
+  01.asm:452:   14000164d:	e8 2e 11 00 00       	call   140002780 <_Unwind_Resume>
+  01.asm:453:   140001652:	48 83 c4 68          	add    $0x68,%rsp
+  01.asm:454:   140001656:	5b                   	pop    %rbx
+  01.asm:455:   140001657:	5d                   	pop    %rbp
+  01.asm:456:   140001658:	c3                   	ret
+  01.asm:457:   140001659:	90                   	nop
+  01.asm:458:   14000165a:	90                   	nop
+  01.asm:459:   14000165b:	90                   	nop
+  01.asm:460:   14000165c:	90                   	nop
+  01.asm:461:   14000165d:	90                   	nop
+  01.asm:462:   14000165e:	90                   	nop
+  01.asm:463:   14000165f:	90                   	nop
+  01.asm:464:
+  01.asm:465:0000000140001660 <__gxx_personality_seh0>:
+  01.asm:466:   140001660:	ff 25 4a 7e 00 00    	jmp    *0x7e4a(%rip)        # 1400094b0 <__imp___gxx_personality_seh0>
+  01.asm:467:   140001666:	90                   	nop
+  01.asm:468:   140001667:	90                   	nop
+  01.asm:469:
+  01.asm:470:0000000140001668 <_Znwy>:
+  01.asm:471:   140001668:	ff 25 3a 7e 00 00    	jmp    *0x7e3a(%rip)        # 1400094a8 <__imp__Znwy>
+  01.asm:472:   14000166e:	90                   	nop
+  01.asm:473:   14000166f:	90                   	nop
+  01.asm:474:
+  01.asm:475:0000000140001670 <_ZdlPvy>:
+  01.asm:476:   140001670:	ff 25 2a 7e 00 00    	jmp    *0x7e2a(%rip)        # 1400094a0 <__imp__ZdlPvy>
+  01.asm:477:   140001676:	90                   	nop
+  01.asm:478:   140001677:	90                   	nop
+  01.asm:479:
+  01.asm:480:0000000140001678 <_ZStrsIcSt11char_traitsIcESaIcEERSt13basic_istreamIT_T0_ES7_RNSt7__cxx1112basic_stringIS4_S5_T1_EE>:
+  01.asm:481:   140001678:	ff 25 1a 7e 00 00    	jmp    *0x7e1a(%rip)        # 140009498 <__imp__ZStrsIcSt11char_traitsIcESaIcEERSt13basic_istreamIT_T0_ES7_RNSt7__cxx1112basic_stringIS4_S5_T1_EE>
+  01.asm:482:   14000167e:	90                   	nop
+  01.asm:483:   14000167f:	90                   	nop
+  01.asm:484:
+  01.asm:485:0000000140001680 <_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc>:
+  01.asm:486:   140001680:	ff 25 0a 7e 00 00    	jmp    *0x7e0a(%rip)        # 140009490 <__imp__ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc>
+  01.asm:487:   140001686:	90                   	nop
+  01.asm:488:   140001687:	90                   	nop
+  01.asm:489:
+  01.asm:490:0000000140001688 <_ZSt21__glibcxx_assert_failPKciS0_S0_>:
+  01.asm:491:   140001688:	ff 25 ea 7d 00 00    	jmp    *0x7dea(%rip)        # 140009478 <__imp__ZSt21__glibcxx_assert_failPKciS0_S0_>
+  01.asm:492:   14000168e:	90                   	nop
+  01.asm:493:   14000168f:	90                   	nop
+  01.asm:494:
+  01.asm:495:0000000140001690 <_ZSt20__throw_length_errorPKc>:
+  01.asm:496:   140001690:	ff 25 da 7d 00 00    	jmp    *0x7dda(%rip)        # 140009470 <__imp__ZSt20__throw_length_errorPKc>
+  01.asm:497:   140001696:	90                   	nop
+  01.asm:498:   140001697:	90                   	nop
+  01.asm:499:
+  01.asm:500:0000000140001698 <_ZSt17__throw_bad_allocv>:
+  01.asm:501:   140001698:	ff 25 ca 7d 00 00    	jmp    *0x7dca(%rip)        # 140009468 <__imp__ZSt17__throw_bad_allocv>
+  01.asm:502:   14000169e:	90                   	nop
+  01.asm:503:   14000169f:	90                   	nop
+  01.asm:504:
+  01.asm:505:00000001400016a0 <__do_global_dtors>:
+  01.asm:506:   1400016a0:	48 83 ec 28          	sub    $0x28,%rsp
+  01.asm:507:   1400016a4:	48 8b 05 55 29 00 00 	mov    0x2955(%rip),%rax        # 140004000 <__data_start__>
+  01.asm:508:   1400016ab:	48 8b 00             	mov    (%rax),%rax
+  01.asm:509:   1400016ae:	48 85 c0             	test   %rax,%rax
+  01.asm:510:   1400016b1:	74 22                	je     1400016d5 <__do_global_dtors+0x35>
+  01.asm:511:   1400016b3:	0f 1f 44 00 00       	nopl   0x0(%rax,%rax,1)
+  01.asm:512:   1400016b8:	ff d0                	call   *%rax
+  01.asm:513:   1400016ba:	48 8b 05 3f 29 00 00 	mov    0x293f(%rip),%rax        # 140004000 <__data_start__>
+  01.asm:514:   1400016c1:	48 8d 50 08          	lea    0x8(%rax),%rdx
+  01.asm:515:   1400016c5:	48 8b 40 08          	mov    0x8(%rax),%rax
+  01.asm:516:   1400016c9:	48 89 15 30 29 00 00 	mov    %rdx,0x2930(%rip)        # 140004000 <__data_start__>
+  01.asm:517:   1400016d0:	48 85 c0             	test   %rax,%rax
+  01.asm:518:   1400016d3:	75 e3                	jne    1400016b8 <__do_global_dtors+0x18>
+  01.asm:519:   1400016d5:	48 83 c4 28          	add    $0x28,%rsp
+  01.asm:520:   1400016d9:	c3                   	ret
+  01.asm:521:   1400016da:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+  01.asm:522:
+  01.asm:523:00000001400016e0 <__do_global_ctors>:
+  01.asm:524:   1400016e0:	56                   	push   %rsi
+  01.asm:525:   1400016e1:	53                   	push   %rbx
+  01.asm:526:   1400016e2:	48 83 ec 28          	sub    $0x28,%rsp
+  01.asm:527:   1400016e6:	48 8b 15 73 3e 00 00 	mov    0x3e73(%rip),%rdx        # 140005560 <.refptr.__CTOR_LIST__>
+  01.asm:528:   1400016ed:	48 8b 02             	mov    (%rdx),%rax
+  01.asm:529:   1400016f0:	83 f8 ff             	cmp    $0xffffffff,%eax
+  01.asm:530:   1400016f3:	89 c1                	mov    %eax,%ecx
+  01.asm:531:   1400016f5:	74 39                	je     140001730 <__do_global_ctors+0x50>
+  01.asm:532:   1400016f7:	85 c9                	test   %ecx,%ecx
+  01.asm:533:   1400016f9:	74 20                	je     14000171b <__do_global_ctors+0x3b>
+  01.asm:534:   1400016fb:	89 c8                	mov    %ecx,%eax
+  01.asm:535:   1400016fd:	83 e9 01             	sub    $0x1,%ecx
+  01.asm:536:   140001700:	48 8d 1c c2          	lea    (%rdx,%rax,8),%rbx
+  01.asm:537:   140001704:	48 29 c8             	sub    %rcx,%rax
+  01.asm:538:   140001707:	48 8d 74 c2 f8       	lea    -0x8(%rdx,%rax,8),%rsi
+  01.asm:539:   14000170c:	0f 1f 40 00          	nopl   0x0(%rax)
+

@@ -1,0 +1,5 @@
+D:/Code/C++&C/QtCalculator/build/CMakeFiles/QtCalculator.dir
+D:/Code/C++&C/QtCalculator/build/CMakeFiles/edit_cache.dir
+D:/Code/C++&C/QtCalculator/build/CMakeFiles/rebuild_cache.dir
+D:/Code/C++&C/QtCalculator/build/CMakeFiles/QtCalculator_autogen_timestamp_deps.dir
+D:/Code/C++&C/QtCalculator/build/CMakeFiles/QtCalculator_autogen.dir

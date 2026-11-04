@@ -1,0 +1,21 @@
+# ninja log v7
+47	1029	8155083923471459	QtCalculator_autogen/timestamp	d5e7619df453013
+47	1029	8155083923471459	QtCalculator_autogen/mocs_compilation.cpp	d5e7619df453013
+47	1029	8155083923471459	D:/Code/C++&C/QtCalculator/build/QtCalculator_autogen/timestamp	d5e7619df453013
+47	1029	8155083923471459	D:/Code/C++&C/QtCalculator/build/QtCalculator_autogen/mocs_compilation.cpp	d5e7619df453013
+1031	2766	8155083924209769	CMakeFiles/QtCalculator.dir/QtCalculator_autogen/mocs_compilation.cpp.obj	20f92bde8c4089ed
+1061	2863	8155083924503337	CMakeFiles/QtCalculator.dir/calculator.cpp.obj	f5e7341a36d0d9e5
+1045	2825	8155083924353743	CMakeFiles/QtCalculator.dir/main.cpp.obj	8df5899adf40939d
+3066	3306	8155082845498840	QtCalculator.exe	4f8af858d1244da1
+21	611	8155084183104535	build.ninja	aff3db8586ff5366
+21	611	8155084182973072	D:/Code/C++&C/QtCalculator/build/cmake_install.cmake	aff3db8586ff5366
+15	634	8155084183104535	build.ninja	aff3db8586ff5366
+15	634	8155084183104535	D:/Code/C++&C/QtCalculator/build/cmake_install.cmake	aff3db8586ff5366
+22	1001	8155084192759461	QtCalculator_autogen/timestamp	d5e7619df453013
+22	1001	8155084192759461	QtCalculator_autogen/mocs_compilation.cpp	d5e7619df453013
+22	1001	8155084192759461	D:/Code/C++&C/QtCalculator/build/QtCalculator_autogen/timestamp	d5e7619df453013
+22	1001	8155084192759461	D:/Code/C++&C/QtCalculator/build/QtCalculator_autogen/mocs_compilation.cpp	d5e7619df453013
+1003	2789	8155084193472170	CMakeFiles/QtCalculator.dir/QtCalculator_autogen/mocs_compilation.cpp.obj	8369f6f17f9a4a8c
+1033	2911	8155084193780292	CMakeFiles/QtCalculator.dir/calculator.cpp.obj	ba4606bd8490b914
+1017	4080	8155084193622468	CMakeFiles/QtCalculator.dir/main.cpp.obj	d02e62723050ddae
+4081	4302	8155084224254135	QtCalculator.exe	4f8af858d1244da1

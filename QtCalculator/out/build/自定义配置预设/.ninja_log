@@ -1,0 +1,8 @@
+# ninja log v7
+21	1161	8155078958994760	QtCalculator_autogen/timestamp	28d10172d7541450
+21	1161	8155078958994760	QtCalculator_autogen/mocs_compilation.cpp	28d10172d7541450
+21	1161	8155078958994760	D:/Code/C++&C/QtCalculator/out/build/自定义配置预设/QtCalculator_autogen/timestamp	28d10172d7541450
+21	1161	8155078958994760	D:/Code/C++&C/QtCalculator/out/build/自定义配置预设/QtCalculator_autogen/mocs_compilation.cpp	28d10172d7541450
+1171	3224	8155078959849466	CMakeFiles/QtCalculator.dir/QtCalculator_autogen/mocs_compilation.cpp.obj	fb0558af40fcb245
+1187	3326	8155078960008751	CMakeFiles/QtCalculator.dir/main.cpp.obj	fa4c07207a92ec2
+1203	3330	8155078960169905	CMakeFiles/QtCalculator.dir/calculator.cpp.obj	aff08e68df1fcbff

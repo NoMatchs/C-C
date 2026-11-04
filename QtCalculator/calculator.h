@@ -23,9 +23,7 @@ private slots:
 
 private:
     QLineEdit *display;
-    double currentResult = 0.0;
-    QString pendingOperator;
-    bool waitingForOperand = true;
+    bool waitingForOperand = true; // 标记是否等待新的数字输入
 };
 
 #endif // CALCULATOR_H

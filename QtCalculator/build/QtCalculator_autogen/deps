@@ -584,23 +584,87 @@ QtCalculator_autogen/timestamp: \
 	X:/A_Tool/Qt/6.12.0/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
 	X:/A_Tool/Qt/6.12.0/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargetsPrecheck.cmake \
 	X:/A_Tool/Qt/6.12.0/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeCXXCompiler.cmake.in \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeCXXCompilerABI.cpp \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeCXXInformation.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeCommonLanguageInclude.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeCompilerIdDetection.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeDetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeDetermineCompilerABI.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeDetermineCompilerSupport.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeDetermineRCCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeDetermineSystem.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeFindDependencyMacro.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeGenericSystem.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeInitializeConfigs.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeLanguageInformation.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeNinjaFindMake.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeParseImplicitIncludeInfo.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeParseImplicitLinkInfo.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeParseLibraryArchitecture.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeRCCompiler.cmake.in \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeRCInformation.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeSystem.cmake.in \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeSystemSpecificInformation.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeSystemSpecificInitialize.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeTestCXXCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeTestCompilerCommon.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/CMakeTestRCCompiler.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/CheckCXXCompilerFlag.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/CheckCXXSourceCompiles.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/CheckIncludeFileCXX.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/CheckLibraryExists.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/ADSP-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/Borland-DetermineCompiler.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/Clang-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/Cray-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/Diab-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/GHS-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/GNU-CXX-CXXImportStd.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/GNU-CXX.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/GNU-FindBinUtils.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/GNU.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/IAR-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/Intel-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/MSVC-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/PGI-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/PathScale-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/PellesC-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/Renesas-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/SCO-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/TI-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/TIClang-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/Tasking-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/Watcom-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/FindPackageHandleStandardArgs.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/FindPackageMessage.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/FindThreads.cmake \
@@ -608,14 +672,18 @@ QtCalculator_autogen/timestamp: \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/GNUInstallDirs.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Internal/CMakeCXXLinkerInformation.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Internal/CMakeCommonLinkerInformation.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Internal/CMakeDetermineLinkerId.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Internal/CMakeInspectCXXLinker.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Internal/CheckCommon.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Internal/CheckCompilerFlag.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Internal/CheckFlagCommonConfig.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Internal/CheckSourceCompiles.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Internal/FeatureTesting.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Platform/Linker/GNU.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Platform/Linker/Windows-CXX.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Platform/Linker/Windows-GNU-CXX.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Platform/Linker/Windows-GNU.cmake \
+	X:/A_Tool/cmake/share/cmake-4.4/Modules/Platform/Windows-Determine-CXX.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Platform/Windows-GNU-CXX-ABI.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Platform/Windows-GNU-CXX.cmake \
 	X:/A_Tool/cmake/share/cmake-4.4/Modules/Platform/Windows-GNU.cmake \

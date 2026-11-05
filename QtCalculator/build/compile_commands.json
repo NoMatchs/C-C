@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Code/C++&C/QtCalculator/build",
+  "command": "D:\\A_Tool\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/Code/C++&C/QtCalculator/build/QtCalculator_autogen/include\" -isystem X:/A_Tool/Qt/6.12.0/mingw_64/include/QtWidgets -isystem X:/A_Tool/Qt/6.12.0/mingw_64/include -isystem X:/A_Tool/Qt/6.12.0/mingw_64/include/QtCore -isystem X:/A_Tool/Qt/6.12.0/mingw_64/mkspecs/win32-g++ -isystem X:/A_Tool/Qt/6.12.0/mingw_64/include/QtGui -std=gnu++17 -pthread -o CMakeFiles\\QtCalculator.dir\\QtCalculator_autogen\\mocs_compilation.cpp.obj -c \"D:\\Code\\C++&C\\QtCalculator\\build\\QtCalculator_autogen\\mocs_compilation.cpp\"",
+  "file": "D:/Code/C++&C/QtCalculator/build/QtCalculator_autogen/mocs_compilation.cpp",
+  "output": "D:/Code/C++&C/QtCalculator/build/CMakeFiles/QtCalculator.dir/QtCalculator_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/Code/C++&C/QtCalculator/build",
+  "command": "D:\\A_Tool\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/Code/C++&C/QtCalculator/build/QtCalculator_autogen/include\" -isystem X:/A_Tool/Qt/6.12.0/mingw_64/include/QtWidgets -isystem X:/A_Tool/Qt/6.12.0/mingw_64/include -isystem X:/A_Tool/Qt/6.12.0/mingw_64/include/QtCore -isystem X:/A_Tool/Qt/6.12.0/mingw_64/mkspecs/win32-g++ -isystem X:/A_Tool/Qt/6.12.0/mingw_64/include/QtGui -std=gnu++17 -pthread -o CMakeFiles\\QtCalculator.dir\\main.cpp.obj -c \"D:\\Code\\C++&C\\QtCalculator\\main.cpp\"",
+  "file": "D:/Code/C++&C/QtCalculator/main.cpp",
+  "output": "D:/Code/C++&C/QtCalculator/build/CMakeFiles/QtCalculator.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Code/C++&C/QtCalculator/build",
+  "command": "D:\\A_Tool\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/Code/C++&C/QtCalculator/build/QtCalculator_autogen/include\" -isystem X:/A_Tool/Qt/6.12.0/mingw_64/include/QtWidgets -isystem X:/A_Tool/Qt/6.12.0/mingw_64/include -isystem X:/A_Tool/Qt/6.12.0/mingw_64/include/QtCore -isystem X:/A_Tool/Qt/6.12.0/mingw_64/mkspecs/win32-g++ -isystem X:/A_Tool/Qt/6.12.0/mingw_64/include/QtGui -std=gnu++17 -pthread -o CMakeFiles\\QtCalculator.dir\\calculator.cpp.obj -c \"D:\\Code\\C++&C\\QtCalculator\\calculator.cpp\"",
+  "file": "D:/Code/C++&C/QtCalculator/calculator.cpp",
+  "output": "D:/Code/C++&C/QtCalculator/build/CMakeFiles/QtCalculator.dir/calculator.cpp.obj"
+}
+]

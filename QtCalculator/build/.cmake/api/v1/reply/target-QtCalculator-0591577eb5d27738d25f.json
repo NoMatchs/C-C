@@ -356,11 +356,11 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 0,
-			"id" : "QtCalculator_autogen::@6890427a1f51a3e7e1df"
+			"id" : "QtCalculator_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "QtCalculator_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+			"backtrace" : 0,
+			"id" : "QtCalculator_autogen::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "QtCalculator::@6890427a1f51a3e7e1df",
@@ -443,11 +443,11 @@
 			"id" : "Qt6::uic::@6890427a1f51a3e7e1df"
 		},
 		{
-			"backtrace" : 0,
-			"id" : "QtCalculator_autogen::@6890427a1f51a3e7e1df"
+			"id" : "QtCalculator_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "QtCalculator_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+			"backtrace" : 0,
+			"id" : "QtCalculator_autogen::@6890427a1f51a3e7e1df"
 		}
 	],
 	"paths" : 

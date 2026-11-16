@@ -3,9 +3,14 @@ using namespace std;
 
 int main()
 {
-    int a = 10, b = 89;
-    cout << a + b << endl;
-
-    cout << 'x' + 'i' + 'a' << endl;
+    int i5xia = 520;
+    if (i5xia >= 520)
+    {
+        cout << "I Love XiaXia So Much" << endl;
+    }
+    else
+    {
+        cout << "我还得更稀饭一下虾儿~!" << endl;
+    }
     return 0;
 }
